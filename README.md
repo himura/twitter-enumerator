@@ -1,5 +1,7 @@
 # twitter-enumerator: An Enumerator based Twitter API library for Haskell #
 
+**NOTE: This repository is no longer in use. It has been superseded by [twitter-conduit](https://github.com/himura/twitter-conduit) package**
+
 ## About ##
 
 This is an enumerator based Twitter API library for Haskell, including Streaming API supports.
